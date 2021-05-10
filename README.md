@@ -28,6 +28,8 @@ You may also need to run the code below:
 ```bash
 npm install
 ```
+I have also added a video of the code demonstration.  
+https://youtu.be/PPSwFa9XPW0  
 
 ## Credits
 HTML was created using Materializecss. You can check it out at  
@@ -35,7 +37,7 @@ https://materializecss.com/
 
 ## Tests
 
-you will need to run the code below to test code
+You will need to run the code below to test code
 
 ```bash
 npm run test 
@@ -43,4 +45,4 @@ npm run test
 
 ## Questions
 If you want to collaborate with me in future projects or want to better this repo. You can contact me via email f.zaldivar@live.com.
-You can see my other works at GitHub. My username is Alkathos!
+You can see my other works in my repo.
